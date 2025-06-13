@@ -1,0 +1,241 @@
+argentina
+nacionales
+
+#EXTINF:0 group-title="Argentina" tvg-name="26TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/441px-Canal_26_logo_%282022%29.svg.png" ch-number="1" cuid="664",Canal 26
+http://181.209.114.13:8000/play/a01r/index.m3u8
+
+#EXTINF:0 group-title="Argentina" tvg-name="el trece HD" tvg-logo="https://logo.iptveditor.com/eltrece.png" cuid="803",el trece HD
+http://200.55.244.75:8000/play/a0bg/index.m3u8
+
+
+#EXTINF:0 group-title="Argentina" tvg-name="el nueve HD" tvg-logo="https://logo.iptveditor.com/elnueve.png" cuid="802",el nueve HD
+http://200.55.244.75:8000/play/a04h/index.m3u8
+
+
+#EXTINF:0 group-title="Argentina" tvg-name="TN HD" tvg-logo="https://logo.iptveditor.com/todonoticias.png" cuid="781",TN HD
+http://200.55.244.75:8000/play/a058/index.m3u8
+
+#EXTINF:0 group-title="Argentina" tvg-name="TV Publica HD" tvg-logo="https://logo.iptveditor.com/tvpublica.png" cuid="788",TV Publica HD
+http://200.55.244.75:8000/play/a0dg/index.m3u8
+
+#EXTINF:0 group-title="Argentina" tvg-name="CRONICA TV" tvg-logo="https://logo.iptveditor.com/cronicatv.png" cuid="691",CRONICA TV
+http://200.55.244.75:8000/play/a0e9/index.m3u8
+
+#EXTINF:0 group-title="Argentina" tvg-name="CN23" tvg-logo="https://logo.iptveditor.com/cn23.png" cuid="688",CN23
+http://200.55.244.75:8000/play/a0dx/index.m3u8
+#EXTINF:0 group-title="Argentina" tvg-name="C5N" tvg-logo="https://logo.iptveditor.com/c5n.png" cuid="677",C5N
+http://200.55.244.75:8000/play/a01p/index.m3u8
+#EXTINF:0 group-title="Argentina" tvg-name="America TV HD" tvg-logo="https://logo.iptveditor.com/americatv.png" cuid="673",America TV HD
+http://200.55.244.75:8000/play/a055/index.m3u8
+#EXTINF:0 group-title="Argentina" tvg-name="A24" tvg-logo="https://logo.iptveditor.com/a24.png" cuid="666",A24
+http://200.55.244.75:8000/play/a01o/index.m3u8
+#EXTINF:0 group-title="Argentina" tvg-name="Cronica" tvg-logo="https://logo.iptveditor.com/cronica.png" cuid="699",Cronica
+http://200.55.244.75:8000/play/a01q/index.m3u8
+
+#EXTINF:0 group-title="Argentina" tvg-name="Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" cuid="792",Telefe HD
+http://200.55.244.75:8000/play/a06c/index.m3u8
+#EXTINF:0 group-title="Argentina" tvg-name="ciudad magazine" tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png" cuid="801",ciudad magazine
+http://200.55.244.75:8000/play/a02h/index.m3u8
+#EXTINF:0 group-title="Argentina" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.iptveditor.com/canallaciudad.png" cuid="693",Canal de la Ciudad
+http://200.55.244.75:8000/play/a06e/index.m3u8
+
+
+deportes
+
+#EXTINF:0 group-title="Deportes" tvg-name="ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" cuid="723",ESPN HD
+http://200.55.244.75:8000/play/a05a/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-name="ESPN 2 HD" tvg-logo="https://logo.iptveditor.com/espn2.png" cuid="717",ESPN 2 HD
+http://200.55.244.75:8000/play/a059/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-name="ESPN 3 HD" tvg-logo="https://logo.iptveditor.com/espn3.png" cuid="718",ESPN 3 HD
+http://200.55.244.75:8000/play/a05b/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-name="ESPN 4 HD" tvg-logo="https://logo.iptveditor.com/espn4.png" cuid="719",ESPN 4 HD
+http://200.55.244.75:8000/play/a076/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-name="ESPN 5 HD" tvg-logo="https://logo.iptveditor.com/espn5.png" cuid="720",ESPN 5 HD
+http://zona593.live:8080/live/PelisOTT25/PelisOTT25/822874.ts
+#EXTINF:0 group-title="Deportes" tvg-name="ESPN 6 HD" tvg-logo="https://logo.iptveditor.com/espn6.png" cuid="721",ESPN 6 HD
+http://zona593.live:8080/live/PelisOTT25/PelisOTT25/760255.ts
+
+
+#EXTINF:0 group-title="Pack Fútbol Argentino" tvg-logo="http://meta.nordvpn.best/tntsport.png" ch-number="2" channelid="-1" type="stream",TNT Sports HD (ARG)
+https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
+
+#EXTINF:0 group-title="Pack Fútbol Argentino" tvg-logo="http://meta.nordvpn.best/espn_lam.png" ch-number="1" channelid="-1" type="stream",ESPN Premium HD (ARG)
+https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
+
+#EXTINF:0 group-title="Conect Deportes" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" ch-number="28" channelid="-1" type="stream",TYC Sports HD
+https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8
+
+#EXTINF:0 group-title="Conect Deportes" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" ch-number="48" channelid="-1" type="stream",Fox Sports 3 HD (ARG)
+https://bigboss.bemtv.cn/STREAM/23022/playlist.m3u8
+#EXTINF:0 group-title="Conect Deportes" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" ch-number="49" channelid="-1" type="stream",Fox Sports HD (ARG)
+https://bigboss.bemtv.cn/STREAM/23023/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack Fútbol Argentino" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" cuid="804",TNT Sports HD
+http://200.55.244.75:8000/play/a0bc/index.m3u8
+#EXTINF:0 group-title="Pack Fútbol Argentino" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" cuid="805",ESPN Premium HD
+http://200.55.244.75:8000/play/a078/index.m3u8
+
+
+#EXTINF:0 group-title="Conect Deportes" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" ch-number="36" channelid="-1" type="stream",Fox Sports 2 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8
+
+
+hbo canales 
+
+#EXTM3U
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo_latinoamerica.png" ch-number="1" channelid="-1" type="stream",HBO HD
+https://otakon.bemtv.cn/STREAM/13035/playlist.m3u8
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo_latinoamerica.png" ch-number="2" channelid="424" type="stream",HBO HD (Oeste)
+https://otakon.bemtv.cn/STREAM/16087/playlist.m3u8
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo2_lam.png" ch-number="3" channelid="424" type="stream",HBO 2 HD
+https://otakon.bemtv.cn/STREAM/11293/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo2_lam.png" ch-number="4" channelid="424" type="stream",HBO 2 HD (Oeste)
+https://otakon.bemtv.cn/STREAM/16106/playlist.m3u8
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo_plus_este.png" ch-number="5" channelid="424" type="stream",HBO Plus HD
+https://otakon.bemtv.cn/STREAM/11296/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo_family_lam2.png" ch-number="7" channelid="-1" type="stream",HBO Family HD
+https://otakon.bemtv.cn/STREAM/11295/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbo_signature_east.png" ch-number="8" channelid="-1" type="stream",HBO Signature HD
+https://otakon.bemtv.cn/STREAM/11294/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hbopop.png" ch-number="10" channelid="-1" type="stream",HBO Pop HD
+https://otakon.bemtv.cn/STREAM/13030/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack HBO" tvg-logo="http://meta.nordvpn.best/hboxtreme.png" ch-number="11" channelid="424" type="stream",HBO Xtreme HD
+https://otakon.bemtv.cn/STREAM/16108/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/universal_channel_global.png" ch-number="23" channelid="424" type="stream",Universal HD
+https://bigboss.bemtv.cn/STREAM/459/playlist.m3u8
+
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-pre.png" ch-number="24" channelid="-1" type="stream",Universal Premier HD
+https://bigboss.bemtv.cn/STREAM/6593/playlist.m3u8
+
+
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-cine.png" ch-number="25" channelid="-1" type="stream",Universal Cinema HD
+https://bigboss.bemtv.cn/STREAM/6594/playlist.m3u8
+
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-crime.png" ch-number="27" channelid="-1" type="stream",Universal Crime HD
+https://otakon.bemtv.cn/STREAM/9086/playlist.m3u8
+
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-real.png" ch-number="28" channelid="-1" type="stream",Universal Reality HD
+https://otakon.bemtv.cn/STREAM/9111/playlist.m3u8
+
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" cuid="665",A&E HD
+http://200.55.244.75:8000/play/a05i/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" cuid="752",Lifetime
+http://200.55.244.75:8000/play/a06n/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Sony HD" tvg-logo="https://logo.iptveditor.com/sony.png" cuid="771",Sony HD
+http://200.55.244.75:8000/play/a05d/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Cine.AR" tvg-logo="https://logo.iptveditor.com/cine.png" cuid="695",Cine.AR
+http://200.55.244.75:8000/play/a024/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Cinecanal HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" cuid="696",Cinecanal HD
+http://200.55.244.75:8000/play/a07b/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" cuid="772",Sony Movies HD
+http://200.55.244.75:8000/play/a05k/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Star Channel HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" cuid="774",Star Channel HD
+http://200.55.244.75:8000/play/a079/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" cuid="697",Cinemax
+http://200.55.244.75:8000/play/a04s/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Comedy Central HD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" cuid="698",Comedy Central HD
+http://200.55.244.75:8000/play/a02x/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Studio Universal" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" cuid="775",Studio Universal
+http://200.55.244.75:8000/play/a022/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" cuid="780",TLNovelas
+http://200.55.244.75:8000/play/a0ae/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" cuid="730",Europa Europa
+http://200.55.244.75:8000/play/a06v/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" cuid="732",FX HD
+http://200.55.244.75:8000/play/a02v/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" cuid="782",TNT HD
+http://200.55.244.75:8000/play/a07d/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" cuid="733",Film & Arts HD
+http://200.55.244.75:8000/play/a030/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Space HD" tvg-logo="https://logo.iptveditor.com/space.png" cuid="773",Space HD
+http://200.55.244.75:8000/play/a02w/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" cuid="783",TNT Novelas HD
+http://200.55.244.75:8000/play/a07g/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" cuid="777",TCM
+http://200.55.244.75:8000/play/a020/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Universal HD" tvg-logo="https://logo.iptveditor.com/universal.png" cuid="797",Universal HD
+http://200.55.244.75:8000/play/a05j/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="TNT Series HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" cuid="784",TNT Series HD
+http://200.55.244.75:8000/play/a07e/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Volver" tvg-logo="https://logo.iptveditor.com/volver.png" cuid="799",Volver
+http://200.55.244.75:8000/play/a021/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" cuid="668",AMC
+http://200.55.244.75:8000/play/a01z/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="AXN HD" tvg-logo="https://logo.iptveditor.com/axn.png" cuid="671",AXN HD
+http://200.55.244.75:8000/play/a05f/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="CINE.AR" tvg-logo="https://logo.iptveditor.com/cine.png" cuid="686",CINE.AR
+http://200.55.244.75:8000/play/a0e5/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="CINE.AR HD" tvg-logo="https://logo.iptveditor.com/cine.png" cuid="687",CINE.AR HD
+http://200.55.244.75:8000/play/a0dk/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Paramount HD" tvg-logo="https://logo.iptveditor.com/paramount.png" cuid="762",Paramount HD
+http://200.55.244.75:8000/play/a02y/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" cuid="726",El Canal  de las Estrellas
+http://200.55.244.75:8000/play/a06z/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Pasiones HD" tvg-logo="https://logo.iptveditor.com/pasiones.png" cuid="763",Pasiones HD
+http://200.55.244.75:8000/play/a0d7/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" cuid="800",Warner Channel HD
+http://200.55.244.75:8000/play/a05e/index.m3u8
+#EXTINF:0 group-title="Cine, Novelas y Series" tvg-name="Adult swim HD" tvg-logo="https://logo.iptveditor.com/adultswim.png" cuid="672",Adult swim HD
+http://200.55.244.75:8000/play/a0dd/index.m3u8
+
+
+
+
+infantiles
+
+#EXTINF:0 group-title="Infantiles" tvg-name="Baby TV" tvg-logo="https://logo.iptveditor.com/babytv.png" cuid="675",Baby TV
+http://200.55.244.75:8000/play/a02e/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Cartoon Network HD" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" cuid="694",Cartoon Network HD
+http://200.55.244.75:8000/play/a075/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Discovery Kids" tvg-logo="https://logo.iptveditor.com/discoverykids.png" cuid="704",Discovery Kids
+http://200.55.244.75:8000/play/a06t/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Disney Channel HD" tvg-logo="https://logo.iptveditor.com/disneychannel.png" cuid="709",Disney Channel HD
+http://200.55.244.75:8000/play/a02r/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Disney Junior" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" cuid="710",Disney Junior
+http://200.55.244.75:8000/play/a04y/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Nick Jr" tvg-logo="https://logo.iptveditor.com/nickjr.png" cuid="757",Nick Jr
+http://200.55.244.75:8000/play/a06u/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Nickelodeon" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" cuid="758",Nickelodeon
+http://200.55.244.75:8000/play/a04z/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="PAKA PAKA" tvg-logo="https://logo.iptveditor.com/pakapaka.png" cuid="759",PAKA PAKA
+http://200.55.244.75:8000/play/a0e3/index.m3u8
+#EXTINF:0 group-title="Infantiles" tvg-name="Pakapaka" tvg-logo="https://logo.iptveditor.com/pakapaka.png" cuid="761",Pakapaka
+http://200.55.244.75:8000/play/a01n/index.m3u8
+
+culturales
+#EXTINF:0 group-title="Variedades" tvg-name="Discovery Channel HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" cuid="288",Discovery Channel HD
+http://181.209.114.13:8000/play/a07i/index.m3u8
+#EXTINF:0 group-title="Variedades" tvg-name="Discovery H&H HD" tvg-logo="https://logo.iptveditor.com/discovery.png" cuid="289",Discovery H&H HD
+http://181.209.114.13:8000/play/a07h/index.m3u8
+#EXTINF:0 group-title="Variedades" tvg-name="Discovery Science" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" cuid="290",Discovery Science
+http://181.209.114.13:8000/play/a02k/index.m3u8
+#EXTINF:0 group-title="Variedades" tvg-name="Discovery Theater HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" cuid="291",Discovery Theater HD
+http://181.209.114.13:8000/play/a02z/index.m3u8
+#EXTINF:0 group-title="Variedades" tvg-name="Discovery Turbo" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" cuid="292",Discovery Turbo
+http://181.209.114.13:8000/play/a01w/index.m3u8
+#EXTINF:0 group-title="Variedades" tvg-name="Discovery World HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" cuid="293",Discovery World HD
+
+#EXTINF:0 group-title="Variedades" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" cuid="299",The History Channel HD
+http://181.209.114.13:8000/play/a05h/index.m3u8
+
+#EXTINF:0 group-title="Variedades" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" cuid="302",Nat Geo HD
+http://181.209.114.13:8000/play/a05g/index.m3u8
+
+
+
